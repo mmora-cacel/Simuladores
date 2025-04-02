@@ -1,0 +1,23 @@
+[
+    {
+        "plazoMinino": 10,
+        "plazoMaximo": 365,
+        "montoMinimo": 10,
+        "montoMaximo": 999999,
+        "tasaAnual": 6
+    },
+    {
+        "plazoMinino": 366,
+        "plazoMaximo": 730,
+        "montoMinimo": 10,
+        "montoMaximo": 999999,
+        "tasaAnual": 6.50
+    },
+    {
+        "plazoMinino": 731,
+        "plazoMaximo": 1100000,
+        "montoMinimo": 10,
+        "montoMaximo": 999999,
+        "tasaAnual": 7
+    }
+]

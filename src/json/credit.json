@@ -1,0 +1,261 @@
+{
+    "typesAmortizationRate": [
+        { "id": 1, "name": "Francesa" },
+        { "id": 2, "name": "Alemana" }
+    ],
+    "types": [
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-CONSUMO",
+            "plazoMinino": 1,
+            "plazoMaximo": 48,
+            "montoMinimo": 1001,
+            "montoMaximo": 10000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-CONSUMO",
+            "plazoMinino": 1,
+            "plazoMaximo": 60,
+            "montoMinimo": 10001,
+            "montoMaximo": 20000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-CONSUMO",
+            "plazoMinino": 1,
+            "plazoMaximo": 72,
+            "montoMinimo": 20001,
+            "montoMaximo": 30000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-CONSUMO",
+            "plazoMinino": 1,
+            "plazoMaximo": 84,
+            "montoMinimo": 30001,
+            "montoMaximo": 40000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-CONSUMO",
+            "plazoMinino": 1,
+            "plazoMaximo": 96,
+            "montoMinimo": 40001,
+            "montoMaximo": 50000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-VEHÍCULO",
+            "plazoMinino": 1,
+            "plazoMaximo": 48,
+            "montoMinimo": 1001,
+            "montoMaximo": 10000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-VEHÍCULO",
+            "plazoMinino": 1,
+            "plazoMaximo": 60,
+            "montoMinimo": 10001,
+            "montoMaximo": 20000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-VEHÍCULO",
+            "plazoMinino": 1,
+            "plazoMaximo": 72,
+            "montoMinimo": 20001,
+            "montoMaximo": 30000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-VEHÍCULO",
+            "plazoMinino": 1,
+            "plazoMaximo": 84,
+            "montoMinimo": 30001,
+            "montoMaximo": 40000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-VEHÍCULO",
+            "plazoMinino": 1,
+            "plazoMaximo": 96,
+            "montoMinimo": 40001,
+            "montoMaximo": 50000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-SALUD EMERGENTE",
+            "plazoMinino": 1,
+            "plazoMaximo": 18,
+            "montoMinimo": 1001,
+            "montoMaximo": 2000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-EDUCATIVO",
+            "plazoMinino": 1,
+            "plazoMaximo": 18,
+            "montoMinimo": 1001,
+            "montoMaximo": 2000,
+            "tasaCreditoAnual": 12.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-AHORRO",
+            "plazoMinino": 1,
+            "plazoMaximo": 60,
+            "montoMinimo": 1001,
+            "montoMaximo": 10000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-AHORRO",
+            "plazoMinino": 1,
+            "plazoMaximo": 72,
+            "montoMinimo": 10001,
+            "montoMaximo": 20000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-AHORRO",
+            "plazoMinino": 1,
+            "plazoMaximo": 84,
+            "montoMinimo": 20001,
+            "montoMaximo": 30000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-AHORRO",
+            "plazoMinino": 1,
+            "plazoMaximo": 96,
+            "montoMinimo": 30001,
+            "montoMaximo": 40000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-EXTRAORDINARIO",
+            "plazoMinino": 1,
+            "plazoMaximo": 7,
+            "montoMinimo": 500,
+            "montoMaximo": 1000,
+            "tasaCreditoAnual": 13,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-PÓLIZA",
+            "plazoMinino": 1,
+            "plazoMaximo": 60,
+            "montoMinimo": 1001,
+            "montoMaximo": 10000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-PÓLIZA",
+            "plazoMinino": 1,
+            "plazoMaximo": 72,
+            "montoMinimo": 10001,
+            "montoMaximo": 20000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-PÓLIZA",
+            "plazoMinino": 1,
+            "plazoMaximo": 84,
+            "montoMinimo": 20001,
+            "montoMaximo": 40000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-PÓLIZA",
+            "plazoMinino": 1,
+            "plazoMaximo": 96,
+            "montoMinimo": 40001,
+            "montoMaximo": 60000,
+            "tasaCreditoAnual": 11.75,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "CONSUMO",
+            "producto": "CREDI-ÁGIL",
+            "plazoMinino": 1,
+            "plazoMaximo": 60,
+            "montoMinimo": 1001,
+            "montoMaximo": 10000,
+            "tasaCreditoAnual": 13.99,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0
+        },
+        {
+            "segmento": "INMOBILIARIO",
+            "producto": "CREDI-VIVIENDA",
+            "plazoMinino": 1,
+            "plazoMaximo": 240,
+            "montoMinimo": 1001,
+            "montoMaximo": 100000,
+            "tasaCreditoAnual": 10.60,
+            "tasaSeguroDesgravamen": 0.097,
+            "tasaSeguroTodoRiesgo": 0.02
+        }
+    ]
+}

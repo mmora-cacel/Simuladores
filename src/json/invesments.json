@@ -1,0 +1,345 @@
+[
+    {
+        "plazoMinino": 30,
+        "plazoMaximo": 60,
+        "montoMinimo": 1,
+        "montoMaximo": 10000,
+        "tasa": 5.38
+    },
+    {
+        "plazoMinino": 30,
+        "plazoMaximo": 60,
+        "montoMinimo": 10001,
+        "montoMaximo": 20000,
+        "tasa": 5.6
+    },
+    {
+        "plazoMinino": 30,
+        "plazoMaximo": 60,
+        "montoMinimo": 20001,
+        "montoMaximo": 40000,
+        "tasa": 5.75
+    },
+    {
+        "plazoMinino": 30,
+        "plazoMaximo": 60,
+        "montoMinimo": 40001,
+        "montoMaximo": 50000,
+        "tasa": 5.94
+    },
+    {
+        "plazoMinino": 30,
+        "plazoMaximo": 60,
+        "montoMinimo": 50001,
+        "montoMaximo": 70000,
+        "tasa": 6.18
+    },
+    {
+        "plazoMinino": 30,
+        "plazoMaximo": 60,
+        "montoMinimo": 70001,
+        "montoMaximo": 100000,
+        "tasa": 6.34
+    },
+    {
+        "plazoMinino": 30,
+        "plazoMaximo": 60,
+        "montoMinimo": 100001,
+        "montoMaximo": 999999,
+        "tasa": 6.46
+    },
+    {
+        "plazoMinino": 61,
+        "plazoMaximo": 90,
+        "montoMinimo": 1,
+        "montoMaximo": 10000,
+        "tasa": 5.84
+    },
+    {
+        "plazoMinino": 61,
+        "plazoMaximo": 90,
+        "montoMinimo": 10001,
+        "montoMaximo": 20000,
+        "tasa": 6.09
+    },
+    {
+        "plazoMinino": 61,
+        "plazoMaximo": 90,
+        "montoMinimo": 20001,
+        "montoMaximo": 40000,
+        "tasa": 6.26
+    },
+    {
+        "plazoMinino": 61,
+        "plazoMaximo": 90,
+        "montoMinimo": 40001,
+        "montoMaximo": 50000,
+        "tasa": 6.44
+    },
+    {
+        "plazoMinino": 61,
+        "plazoMaximo": 90,
+        "montoMinimo": 50001,
+        "montoMaximo": 70000,
+        "tasa": 6.74
+    },
+    {
+        "plazoMinino": 61,
+        "plazoMaximo": 90,
+        "montoMinimo": 70001,
+        "montoMaximo": 100000,
+        "tasa": 6.89
+    },
+    {
+        "plazoMinino": 61,
+        "plazoMaximo": 90,
+        "montoMinimo": 100001,
+        "montoMaximo": 999999,
+        "tasa": 7.01
+    },
+    {
+        "plazoMinino": 91,
+        "plazoMaximo": 120,
+        "montoMinimo": 1,
+        "montoMaximo": 10000,
+        "tasa": 6.54
+    },
+    {
+        "plazoMinino": 91,
+        "plazoMaximo": 120,
+        "montoMinimo": 10001,
+        "montoMaximo": 20000,
+        "tasa": 6.76
+    },
+    {
+        "plazoMinino": 91,
+        "plazoMaximo": 120,
+        "montoMinimo": 20001,
+        "montoMaximo": 40000,
+        "tasa": 6.93
+    },
+    {
+        "plazoMinino": 91,
+        "plazoMaximo": 120,
+        "montoMinimo": 40001,
+        "montoMaximo": 50000,
+        "tasa": 7.11
+    },
+    {
+        "plazoMinino": 91,
+        "plazoMaximo": 120,
+        "montoMinimo": 50001,
+        "montoMaximo": 70000,
+        "tasa": 7.37
+    },
+    {
+        "plazoMinino": 91,
+        "plazoMaximo": 120,
+        "montoMinimo": 70001,
+        "montoMaximo": 100000,
+        "tasa": 7.52
+    },
+    {
+        "plazoMinino": 91,
+        "plazoMaximo": 120,
+        "montoMinimo": 100001,
+        "montoMaximo": 999999,
+        "tasa": 7.65
+    },
+    {
+        "plazoMinino": 121,
+        "plazoMaximo": 180,
+        "montoMinimo": 1,
+        "montoMaximo": 10000,
+        "tasa": 6.88
+    },
+    {
+        "plazoMinino": 121,
+        "plazoMaximo": 180,
+        "montoMinimo": 10001,
+        "montoMaximo": 20000,
+        "tasa": 7.09
+    },
+    {
+        "plazoMinino": 121,
+        "plazoMaximo": 180,
+        "montoMinimo": 20001,
+        "montoMaximo": 40000,
+        "tasa": 7.26
+    },
+    {
+        "plazoMinino": 121,
+        "plazoMaximo": 180,
+        "montoMinimo": 40001,
+        "montoMaximo": 50000,
+        "tasa": 7.44
+    },
+    {
+        "plazoMinino": 121,
+        "plazoMaximo": 180,
+        "montoMinimo": 50001,
+        "montoMaximo": 70000,
+        "tasa": 7.7
+    },
+    {
+        "plazoMinino": 121,
+        "plazoMaximo": 180,
+        "montoMinimo": 70001,
+        "montoMaximo": 100000,
+        "tasa": 7.85
+    },
+    {
+        "plazoMinino": 121,
+        "plazoMaximo": 180,
+        "montoMinimo": 100001,
+        "montoMaximo": 999999,
+        "tasa": 7.97
+    },
+    {
+        "plazoMinino": 181,
+        "plazoMaximo": 270,
+        "montoMinimo": 1,
+        "montoMaximo": 10000,
+        "tasa": 7.68
+    },
+    {
+        "plazoMinino": 181,
+        "plazoMaximo": 270,
+        "montoMinimo": 10001,
+        "montoMaximo": 20000,
+        "tasa": 7.91
+    },
+    {
+        "plazoMinino": 181,
+        "plazoMaximo": 270,
+        "montoMinimo": 20001,
+        "montoMaximo": 40000,
+        "tasa": 8.08
+    },
+    {
+        "plazoMinino": 181,
+        "plazoMaximo": 270,
+        "montoMinimo": 40001,
+        "montoMaximo": 50000,
+        "tasa": 8.26
+    },
+    {
+        "plazoMinino": 181,
+        "plazoMaximo": 270,
+        "montoMinimo": 50001,
+        "montoMaximo": 70000,
+        "tasa": 8.52
+    },
+    {
+        "plazoMinino": 181,
+        "plazoMaximo": 270,
+        "montoMinimo": 70001,
+        "montoMaximo": 100000,
+        "tasa": 8.67
+    },
+    {
+        "plazoMinino": 181,
+        "plazoMaximo": 270,
+        "montoMinimo": 100001,
+        "montoMaximo": 999999,
+        "tasa": 8.8
+    },
+    {
+        "plazoMinino": 271,
+        "plazoMaximo": 360,
+        "montoMinimo": 1,
+        "montoMaximo": 10000,
+        "tasa": 8.06
+    },
+    {
+        "plazoMinino": 271,
+        "plazoMaximo": 360,
+        "montoMinimo": 10001,
+        "montoMaximo": 20000,
+        "tasa": 8.29
+    },
+    {
+        "plazoMinino": 271,
+        "plazoMaximo": 360,
+        "montoMinimo": 20001,
+        "montoMaximo": 40000,
+        "tasa": 8.45
+    },
+    {
+        "plazoMinino": 271,
+        "plazoMaximo": 360,
+        "montoMinimo": 40001,
+        "montoMaximo": 50000,
+        "tasa": 8.63
+    },
+    {
+        "plazoMinino": 271,
+        "plazoMaximo": 360,
+        "montoMinimo": 50001,
+        "montoMaximo": 70000,
+        "tasa": 8.9
+    },
+    {
+        "plazoMinino": 271,
+        "plazoMaximo": 360,
+        "montoMinimo": 70001,
+        "montoMaximo": 100000,
+        "tasa": 9
+    },
+    {
+        "plazoMinino": 271,
+        "plazoMaximo": 360,
+        "montoMinimo": 100001,
+        "montoMaximo": 999999,
+        "tasa": 9
+    },
+    {
+        "plazoMinino": 361,
+        "plazoMaximo": 10950,
+        "montoMinimo": 1,
+        "montoMaximo": 10000,
+        "tasa": 9 
+    },
+    {
+        "plazoMinino": 361,
+        "plazoMaximo": 10950,
+        "montoMinimo": 10001,
+        "montoMaximo": 20000,
+        "tasa": 9 
+    },
+    {
+        "plazoMinino": 361,
+        "plazoMaximo": 10950,
+        "montoMinimo": 20001,
+        "montoMaximo": 40000,
+        "tasa": 9 
+    },
+    {
+        "plazoMinino": 361,
+        "plazoMaximo": 10950,
+        "montoMinimo": 40001,
+        "montoMaximo": 50000,
+        "tasa": 9 
+    },
+    {
+        "plazoMinino": 361,
+        "plazoMaximo": 10950,
+        "montoMinimo": 50001,
+        "montoMaximo": 70000,
+        "tasa": 9 
+    },
+    {
+        "plazoMinino": 361,
+        "plazoMaximo": 10950,
+        "montoMinimo": 70001,
+        "montoMaximo": 100000,
+        "tasa": 9 
+    },
+    {
+        "plazoMinino": 361,
+        "plazoMaximo": 10950,
+        "montoMinimo": 100001,
+        "montoMaximo": 999999,
+        "tasa": 9.05
+    }
+]
